@@ -1,0 +1,13 @@
+version: "2"
+services:
+  speedtest:
+    image: kyxap1/speedtest:latest
+    restart: always
+    labels:
+      destiny: service
+    volumes:
+      - conf:/conf
+      - data:/data
+volumes:
+  conf:
+  data:

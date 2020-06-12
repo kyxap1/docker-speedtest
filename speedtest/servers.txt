@@ -1,0 +1,20 @@
+SERVER_NUMBER=3
+SERVER_ID[0]="3587"
+SERVER_COUNTRY[0]="Netherlands"
+SERVER_NAME[0]="LeaseWeb Amsterdam"
+SERVER_TR_DL[0]="25"
+SERVER_TR_UL[0]="2.5"
+
+SERVER_ID[1]="3585"
+SERVER_COUNTRY[1]="Germany"
+SERVER_NAME[1]="LeaseWeb Frankfurt"
+SERVER_TR_DL[1]="25"
+SERVER_TR_UL[1]="2.5"
+
+SERVER_ID[2]="18128"
+SERVER_COUNTRY[2]="Simferopol"
+SERVER_NAME[2]="Farline Simferopol"
+SERVER_TR_DL[2]="50"
+SERVER_TR_UL[2]="5"
+
+# vim: filetype=sh
